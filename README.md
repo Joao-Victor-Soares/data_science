@@ -1,2 +1,2 @@
 # data_science
-Repositório de analises de dados
+Repositório de ciência e analises de dados
